@@ -1,0 +1,7 @@
+torch
+monai 
+nibabel
+matplotlib
+numpy 
+scikit-image
+requests

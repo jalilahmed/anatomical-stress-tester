@@ -25,6 +25,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.vscode
+data/Task09_Spleen
+data/Task09_Spleen.tar
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
